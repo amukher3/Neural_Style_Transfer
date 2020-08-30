@@ -9,6 +9,6 @@ For example, here the original image of the scenary is transfer styled to a Mone
 
 
 
-***Syled Image***
+***Styled Image***
 
 ![](transferStyled_1.png)
